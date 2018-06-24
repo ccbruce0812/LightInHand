@@ -2,7 +2,7 @@
 This is a multifunctional small lantern project.
 
 ## Gestures
-1. Shake the lantern.
+1. Shake the lantern:
 	Switch to next function.
 	1. Normal mode.
 	1. Breath light mode.
@@ -10,7 +10,7 @@ This is a multifunctional small lantern project.
 	1. Candle mode.
 	1. Color temperature adjusting mode for normal mode. (Status indicator blinks every 1 second)
 	1. Turn off.
-1. Turn the lantern upside down.
+1. Turn the lantern upside down:
 	1. Set brightness for normal mode.
 	2. Set color temperature for normal mode.
 	
